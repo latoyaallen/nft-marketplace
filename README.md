@@ -16,10 +16,8 @@ npx hardhat help
 
 
 # Useful Links
-* The package [openzepplin/contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) contains [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/#:~:text=The%20ERC%2D721%20(Ethereum%20Request,for%20tokens%20within%20Smart%20Contracts.), a Non-Fungible Token Standard that implements an API for tokens within Smart Contracts. It also provides up with reusable Solidity components. It's at  [Decentraland](https://decentraland.org/), [Aztec Protocol](https://aztec.network/), and [Gnosis](https://gnosis.io/).
-
+* The package [openzepplin/contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) contains [ERC-721](https://ethereum.org/en/developers/docs/standards/tokens/erc-721/), a Non-Fungible Token Standard that implements an API for tokens within Smart Contracts. It also provides us with reusable Solidity components. The package is used by [Decentraland](https://decentraland.org/), [Aztec Protocol](https://aztec.network/), and [Gnosis](https://gnosis.io/).
 * [Mumbai Testnet](https://docs.polygon.technology/docs/develop/network-details/network) replicates the Polygon Mainnet
-
 * [Infura.io](https://infura.io/) - Infrastructure provider for Ethereum. Create
   a new project in the dashboard, set the project key endpointt to Polygon
   Mumbai for testing. Infura will give us back a polygon-mumbai.infura.io
